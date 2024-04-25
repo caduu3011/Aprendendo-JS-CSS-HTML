@@ -1,0 +1,19 @@
+h1{
+    color:rgb(5, 5, 5);
+    background-color: rgb(39, 140, 180);
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid #4e4646
+}
+h1:hover{
+    background-color: rgb(53, 114, 150);
+    border: 2px solid #0000
+    
+}
+
+img{
+    width: 300px;
+}
+body{
+    background-color: #645555;
+}
